@@ -1,0 +1,1 @@
+& $env:SEGGER_PATH\JLinkRemoteServerCL -UseTunnel -TunnelBySN -select="801036857"
