@@ -1,0 +1,15 @@
+SEGGER J-Link Remote Server V8.10d LogFile
+Logging started @ 2024-12-09 22:22
+00000000 - SERVER  (0x0015 bytes): Remote Server started
+00000000 - SERVER  (0x0015 bytes): TLV Protocol: V1.0.0 
+00000076 - SERVER  (0x0026 bytes): Connected to J-Link with S/N 801036857
+00000077 - SERVER  (0x0039 bytes): Resolving tunnel server name (jlink-europe.segger.com)...
+00000084 - SERVER  (0x001F bytes): Tunnel server IP: 185.162.249.2
+00000120 - SERVER  (0x001B bytes): Registered at tunnel server
+00000120 - SERVER  (0x001D bytes): Waiting for client connection
+00003513 - SERVER  (0x0010 bytes): Client connected
+00004594 - SERVER  (0x0018 bytes): Client connection closed
+00007916 - SERVER  (0x0018 bytes): Cannot connect to J-Link
+00007917 - SERVER  (0x0018 bytes): Retrying in 5 seconds...
+00036905 - SERVER  (0x0018 bytes): Cannot connect to J-Link
+00036905 - SERVER  (0x0018 bytes): Retrying in 5 seconds...
